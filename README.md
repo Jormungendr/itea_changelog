@@ -18,4 +18,20 @@
 
 ## 2018.12.11
 ### Cobra-CRM
+None.
 ### Cobra-Mobile
+#### Big change
+1. Change long-live session to connect on demand.
+
+## 2018.12.12
+### Cobra-CRM
+#### New Feature
+1. Add redeem api.
+### Cobra-Mobile
+#### Bug fix
+1. UI fix.
+
+## 2018.12.13
+### Cobra-Mobile
+#### New Feature
+1. Switch tab will re-render page.
