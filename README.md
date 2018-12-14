@@ -35,3 +35,9 @@ None.
 ### Cobra-Mobile
 #### New Feature
 1. Switch tab will re-render page.
+
+## 2018.12.14
+### Cobra-Mobile
+#### New Feature
+1. Technical selection.
+2. Evaluation feasibility
