@@ -40,4 +40,20 @@ None.
 ### Cobra-Mobile
 #### New Feature
 1. Technical selection.
-2. Evaluation feasibility
+2. Evaluation feasibility.
+
+## 2018.12.15
+### Cobra-Mobile
+#### New Feature
+1. New page 'Profile' add.
+
+## 2018.12.17
+### Cobra-Mobile
+#### New Feature
+1. Profile page draw completed.
+2. Reserve other data interface.
+
+## 2018.12.18
+### Cobra-CRM
+#### New Feature
+1. Refactor member detail (such as pop points, dob, email, etc.) API.
