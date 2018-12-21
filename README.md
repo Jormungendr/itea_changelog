@@ -57,3 +57,14 @@ None.
 ### Cobra-CRM
 #### New Feature
 1. Refactor member detail (such as pop points, dob, email, etc.) API.
+
+## 2018.12.19
+### Cobra-Mobile
+#### New Feature
+1. Fix UI.
+
+## 2018.12.20
+### Cobra-CRM
+#### New Feature
+1. Add outlet infomation in QR code.
+2. Fix redeem API & check API.
