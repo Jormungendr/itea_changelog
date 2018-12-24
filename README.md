@@ -68,3 +68,16 @@ None.
 #### New Feature
 1. Add outlet infomation in QR code.
 2. Fix redeem API & check API.
+
+## 2018.12.21
+### Cobra-Mobile
+#### New Feature
+1. Redeem an invicode will back to homepage.
+
+## 2018.12.22
+### Cobra-Mobile
+#### Bug Fix
+1. Outlet infomation will correctly display in QRcode.
+### Cobra-CRM
+#### New Feature
+1. WIP://Add Abbreviation code features.
